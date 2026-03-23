@@ -22,9 +22,5 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,27,12&height=120&section=header&text=DUNGEON%20EXPLORATION&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyMeng12/LyMeng12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyMeng12/LyMeng12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LyMeng12/LyMeng12/output/pacman-contribution-graph.svg">
-</picture>
+>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
