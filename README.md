@@ -23,4 +23,12 @@ Here are some ideas to get you started:
 </div>
 
 >
+><div align="center">
+
+## 📊 GitHub Stats & Trophies
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArimoshitoTorika&cache_seconds=7200&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=9d4edd&text_color=e0c3fc&border_radius=12" alt="ArimoshitoTorika's GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=ArimoshitoTorika&theme=radical&hide_border=true&background=0D0221&ring=9D4EDD&fire=B388FF&currStreakLabel=E0C3FC&sideLabels=E0C3FC&dates=7b2ff7" alt="ArimoshitoTorika's GitHub Streak" />
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
